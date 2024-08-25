@@ -259,3 +259,69 @@ intitle:"active webcam page"
 inurl:control/camerainfo
 "Any time & Any where"
 ```
+
+## HTTP Title Tags
+Some, not nearly exhaustive...
+```
+TL-WR740N
+AXIS Video Server
+Live View / - AXIS
+AXIS 2400 Video Server
+Network Camera TUCCAM1
+AXIS 243Q(2) Blade 4.45
+Network Camera Capitanía
+AXIS P5514 Network Camera
+AXIS Q1615 Network Camera
+AXIS P1357 Network Camera
+AXIS M5013 Network Camera
+AXIS M3026 Network Camera
+AXIS M1124 Network Camera
+Network Camera Hwy285/cr43,
+Login - Residential Gateway 
+Axis 2420 Video Server 2.32
+AXIS Q6045-E Network Camera
+AXIS Q6044-E Network Camera
+Network Camera NetworkCamera
+AXIS P1435-LE Network Camera
+AXIS P1425-LE Network Camera
+Axis 2120 Network Camera 2.34
+Axis 2420 Network Camera 2.30
+Axis 2420 Network Camera 2.31
+Axis 2420 Network Camera 2.32
+AXIS P1365 Mk II Network Camera
+AXIS F34 Network Camera 6.50.2.3
+AXIS 214 PTZ Network Camera 4.49
+Axis 2130 PTZ Network Camera 2.30
+Axis 2130 PTZ Network Camera 2.31
+Axis 2130 PTZ Network Camera 2.32
+AXIS P5635-E Mk II Network Camera
+AXIS Q7401 Video Encoder 5.51.5.1
+AXIS Q6045-E Mk II Network Camera
+AXIS P1353 Network Camera 6.50.2.3
+AXIS M3004 Network Camera 5.51.5.1
+AXIS M1145-L Network Camera 6.50.3
+AXIS M2025-LE Network Camera 8.50.1
+Live view / - AXIS 205 version 4.03
+Live view  - AXIS 240Q Video Server
+Live view  - AXIS 221 Network Camera
+Live view  - AXIS 211 Network Camera
+AXIS Q1765-LE Network Camera 5.55.2.3
+Live view  - AXIS P1354 Network Camera 
+Live view  - AXIS P1344 Network Camera
+Live view  - AXIS M1114 Network Camera
+Live view  - AXIS M1103 Network Camera
+Live view  - AXIS M1025 Network Camera
+AXIS P1354 Fixed Network Camera 6.50.3
+AXIS P1354 Fixed Network Camera 5.60.1
+AXIS V5914 PTZ Network Camera 5.75.1.11
+Live view - AXIS P5534-E Network Camera
+Live view  - AXIS 215 PTZ Network Camera
+Live view  - AXIS 214 PTZ Network Camera
+Live view  - AXIS 213 PTZ Network Camera
+AXIS P5534 PTZ Dome Network Camera 5.51.5
+AXIS Q6034-E PTZ Dome Network Camera 5.41.4
+AXIS P3354 Fixed Dome Network Camera 5.40.17
+AXIS Q6042-E PTZ Dome Network Camera 5.70.1.4
+AXIS Q3505 Fixed Dome Network Camera 6.30.1.1
+Live view - AXIS 206M Network
+```
