@@ -14,6 +14,11 @@ Collection of Resources around IP Camera Finding and Pentesting
 - https://www.hackers-arise.com/post/2019/05/31/open-source-intelligenceosint-part-4-google-hacking-to-find-unsecured-web-cams
 - https://www.coresecurity.com/sites/default/files/private-files/publications/2016/05/corelabs-ipcams-research-falcon-riva.pdf
 
+## Ports
+```
+80,81,82,83,84,443,554,1900,3702,5353,15156,50333,55574,55750,55751,55752,55754,55755,55756,55757,55758
+```
+
 ## Google Dorks & Shodan Searches
 
 ### Shodan.io Searches & HTTP Headers
