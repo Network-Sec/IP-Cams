@@ -19,6 +19,12 @@ Collection of Resources around IP Camera Finding and Pentesting
 80,81,82,83,84,85,86,92,443,554,1900,3702,5353,5554,8080,8081,8082,15156,37777,50333,55554,55574,55750,55751,55752,55754,55755,55756,55757,55758
 ```
 
+## Nmap
+Scans are usually painfully slow, so if you're just looking for "a night of fun" you're far better off with Google and Shodan.
+```bash
+$ sudo nmap -sS -v -Pn -n -T5 -iR 700 -p 8080-8086 --open --min-rate 1000 --max-retries 2 --script=http-headers.nse,AXISwebcam-recon.nse -oA webcams <IP Range or Address>
+```
+
 ## Google Dorks & Shodan Searches
 
 ### Shodan.io Searches & HTTP Headers
